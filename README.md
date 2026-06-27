@@ -50,7 +50,6 @@ CUDA_VISIBLE_DEVICES=0 python train_ours.py \
 ### 5. Evaluation Metrics
 
 We adopt standard metrics for category-agnostic pose estimation:
-- **PCK** (Percentage of Correct Keypoints)
 - **mAP** (mean Average Precision)
 
 ---
