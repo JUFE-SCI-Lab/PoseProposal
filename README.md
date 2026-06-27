@@ -54,19 +54,6 @@ We adopt standard metrics for category-agnostic pose estimation:
 
 ---
 
-## 📊 Results on MP-100
-
-| Method | Related Order (Avg) | Independent Order (Avg) |
-|:-------|:--------------------:|:-----------------------:|
-| Sim.Base. | 44.5 | 14.3 |
-| GroupPose | 47.4 | 16.6 |
-| MetaPoint | 42.1 | 41.4 |
-| **Ours (PoseProposal)** | **64.0** | **63.3** |
-| Oracle* | 79.1 | 78.0 |
-
-> *Oracle* denotes using category-specific training data for each category (upper-bound performance).
-
----
 
 ## 📝 Citation
 
