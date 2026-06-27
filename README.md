@@ -84,5 +84,3 @@ This project is built upon the following excellent open-source projects:
 This project is released under the [Apache 2.0 License](LICENSE).
 
 ---
-
-**Now you can copy this entire content into your `README.md` file, commit, and push.**
